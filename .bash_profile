@@ -18,3 +18,5 @@ export PATH="/Users/robertforgione/anaconda/bin:$PATH"
 # The orginal version is saved in .bash_profile.pysave
 PATH="/Library/Frameworks/Python.framework/Versions/3.4/bin:${PATH}"
 export PATH=$PATH:/bin
+
+source ~/.bashrc
